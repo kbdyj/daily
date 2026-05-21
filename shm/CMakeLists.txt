@@ -8,6 +8,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(shm main.cpp
     test_consumer_producer.cpp
     test_shm.cpp
+    test_pipe.cpp
 
 )
 
