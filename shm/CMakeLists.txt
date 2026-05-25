@@ -9,6 +9,7 @@ add_executable(shm main.cpp
     test_consumer_producer.cpp
     test_shm.cpp
     test_pipe.cpp
+    test_fork.cpp
 
 )
 
