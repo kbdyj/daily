@@ -10,6 +10,7 @@ add_executable(shm main.cpp
     test_shm.cpp
     test_pipe.cpp
     test_fork.cpp
+    test_pthread.cpp
 
 )
 
